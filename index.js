@@ -1,3 +1,4 @@
+const keep_alive = require('./keep_alive.js')
 //import the Discord Library
 const Discord = require("discord.js");
 
